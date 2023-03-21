@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BackEnd.DataAccess/1.0.0": {
+        "dependencies": {
+          "BackEnd.Common": "1.0.0",
+          "BackEnd.Models": "1.0.0"
+        },
+        "runtime": {
+          "BackEnd.DataAccess.dll": {}
+        }
+      },
+      "BackEnd.Common/1.0.0": {
+        "runtime": {
+          "BackEnd.Common.dll": {}
+        }
+      },
+      "BackEnd.Models/1.0.0": {
+        "runtime": {
+          "BackEnd.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEnd.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEnd.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

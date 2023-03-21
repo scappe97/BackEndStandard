@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nISV07DCWF0SjGN3w1nF4ZuwRAuqRXtDeF855VIstQEvy22+pi+WJl/EJPxC9j2mvYsl2FKW/da4dsJa4sPzw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\personale_BE\\src\\Backend.Business\\BackEnd.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matte\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
