@@ -1,7 +1,11 @@
 using BackEnd.Business.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
+//// Database configuration
+//builder.Services.AddDbContextFactory<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+//// ADD Automapper
+//builder.Services.AddAutoMapper(typeof(MappingProfile));
 // Add services to the container.
 builder.Services.AddBusinessServices();
 builder.Services.AddControllers();

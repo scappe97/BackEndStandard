@@ -76,7 +76,6 @@ D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\BackEnd.API.MvcApplic
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\BackEnd.API.dll
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\ref\BackEnd.API.dll
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\BackEnd.API.pdb
-D:\Workspace\personale_BE\src\BackEnd.API\bin\Debug\net6.0\appsettings.Development.json
 D:\Workspace\personale_BE\src\BackEnd.API\bin\Debug\net6.0\appsettings.json
 D:\Workspace\personale_BE\src\BackEnd.API\bin\Debug\net6.0\BackEnd.API.exe
 D:\Workspace\personale_BE\src\BackEnd.API\bin\Debug\net6.0\BackEnd.API.deps.json
@@ -107,3 +106,4 @@ D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\scopedcss\bundle\Back
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\BackEnd.API.csproj.CopyComplete
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\refint\BackEnd.API.dll
 D:\Workspace\personale_BE\src\BackEnd.API\obj\Debug\net6.0\BackEnd.API.genruntimeconfig.cache
+D:\Workspace\personale_BE\src\BackEnd.API\bin\Debug\net6.0\appsettings.Local.json
